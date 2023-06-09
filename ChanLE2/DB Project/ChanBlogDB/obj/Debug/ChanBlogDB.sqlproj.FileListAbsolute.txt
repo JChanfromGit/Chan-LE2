@@ -1,0 +1,6 @@
+C:\Files\VSC\LE2\ChanLE2\DB Project\ChanBlogDB\bin\Debug\ChanBlogDB.dacpac
+C:\Files\VSC\LE2\ChanLE2\DB Project\ChanBlogDB\bin\Debug\ChanBlogDB.dll
+C:\Files\VSC\LE2\ChanLE2\DB Project\ChanBlogDB\bin\Debug\ChanBlogDB.pdb
+C:\Files\VSC\LE2\ChanLE2\DB Project\ChanBlogDB\obj\Debug\ChanBlogDB.sqlproj.AssemblyReference.cache
+C:\Files\VSC\LE2\ChanLE2\DB Project\ChanBlogDB\obj\Debug\ChanBlogDB.dll
+C:\Files\VSC\LE2\ChanLE2\DB Project\ChanBlogDB\obj\Debug\ChanBlogDB.pdb
